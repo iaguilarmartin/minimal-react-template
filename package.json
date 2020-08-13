@@ -1,0 +1,22 @@
+{
+  "name": "minimal-react-template",
+  "version": "1.0.0",
+  "description": "Minimal setup for a quick React project",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -p 4040 -o"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iaguilarmartin/minimal-react-template.git"
+  },
+  "author": "Ivan Aguilar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iaguilarmartin/minimal-react-template/issues"
+  },
+  "homepage": "https://github.com/iaguilarmartin/minimal-react-template#readme",
+  "dependencies": {
+    "http-server": "^0.12.3"
+  }
+}
